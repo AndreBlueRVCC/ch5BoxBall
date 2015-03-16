@@ -5,6 +5,7 @@ import java.awt.Color;
  * Canvas class. 
  *
  * @author Michael Kölling and David J. Barnes
+ * @author Andre Blue (king of tacos)
  * @version 2011.07.31
  */
 
